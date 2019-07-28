@@ -5,14 +5,14 @@ Il progetto è stato eseguito da un gruppo di tre studenti: Giuseppe De Palma, L
 
 Il progetto consisteva nell'analisi e nella progettazione di un sistema tipo Vivino per condividere informazioni, commentare e recensire vini e produttori.
 
-Il progetto si è articolato in quattro fasi:
+Lo sviluppo si è articolato in quattro fasi:
 * presentazione della proposta del progetto
 * raccolta e analisi dei requisiti funzionali e non funzionali
 * progettazione dell'architettura, delle classi e delle attività per l'utilizzo del sistema
 * definizione del piano dei test per le funzionalità
 
 La documentazione si compone di 10 documenti:
-* proposta: definizione della proposta del progetto, analisi del contesto nel quale ci si inserisce e valorizzazione dei principali vantaggi. prima analisi degli aspetti progettuali e tecnologici
+* proposta: definizione della proposta del progetto, analisi del contesto nel quale ci si inserisce e valorizzazione dei principali vantaggi. Prima analisi degli aspetti progettuali e tecnologici
 * glossario: individuazione e definizione della terminologia più ricorrente nello sviluppo
 * piano di sviluppo: pianificazione delle varie fasi di sviluppo (tempo da impiegare, obiettivi da raggiungere)
 * stima dei rischi: analisi dei rischi legati a diversi fattori, Per ogni rischio si è individuata la sua probabilità, la sua gravità e le strategie per contenere il rischio (strategie RMMM)
