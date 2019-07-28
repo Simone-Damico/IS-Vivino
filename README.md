@@ -3,7 +3,7 @@ Progetto del corso di Ingegneria del Software tenuto dal  Prof.re Paolo Gaspare 
 
 Il progetto è stato eseguito da un gruppo di tre studenti: Giuseppe De Palma, Lorenzo Ceccomancini, Simone D'Amico.
 
-Il progetto consisteva nell'analisi e nella progettazione di un sistema tipo Vivino per condividere informazioni, commentare e recensire vini e produttori.
+L'obiettivo del lavoro consisteva nell'analisi e nella progettazione di un sistema tipo Vivino per condividere informazioni, commentare e recensire vini e produttori.
 
 Lo sviluppo si è articolato in quattro fasi:
 * presentazione della proposta del progetto
